@@ -9,6 +9,11 @@
 #include <stdio.h>  // Diamond braces for sys lib: Standard I/O
 #include "uart.h"   // Quotes for user lib: UART lib
 
+// Function Prototypes
+// Compiler aid for "type checking"
+unsigned long Calc_Area(unsigned long s);   // Says Calc_Area expects
+                    // an unsigned long and returns an unsigned long
+
 // Subroutines section
 // MAIN: Mandatory subroutine for a C program to be executable
 int main(void) {
@@ -19,8 +24,21 @@ int main(void) {
   printf("This program calculates the area of a square shaped room\n");
   
   side = 3;   // 3 meters
-  area = size * size;   // square meters
+  area = Calc_Area(side);   // square meters
   
   printf("Area of room with side %ld m is %ld sq m\n", side, area); 
   }
+
+// Calculates area
+// Input: side of a room (unsigned long)
+// Output: area of the room (unsigned long)
+// Notes:
+unsigned long Calc_Area(unsigned long s) {
+  unsigned long result;
+  
+  result = s*s;
+  
+  return (result);
+  
+}
   
