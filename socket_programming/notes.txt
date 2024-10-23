@@ -1,0 +1,93 @@
+https://www.geeksforgeeks.org/socket-programming-cc/
+
+https://careers.na.panasonic.com/jobs/39174?lang=en-us
+MTS I, Software
+Irvine, California
+Engineering
+Full-Time
+Hybrid
+PAC Panasonic Avionics Corporation
+Avionics
+REQ-147631
+10/28/2024
+Job Description
+Overview
+
+Our new global headquarters is conveniently located in Irvine, CA near John Wayne Airport in the Park Place development. For our onsite and hybrid employees you will be able to enjoy amenities such as access to many restaurants and shops, running trails, a fitness deck, outdoor seating, dry cleaning, car wash, free garage parking, car charging stations, shuttle service for train commuters, outdoor games like bocce, horseshoes, gaming tables, pickle ball, and basketball. For more information on Park Place visit www.parkplaceirvine.com      
+ 
+Who We Are:    
+
+
+Ever wonder who brings the entertainment to your flights? Panasonic Avionics Corporation is #1 in the industry for delivering inflight products such as movies, games, WiFi, and now Bluetooth headphone connectivity!
+
+
+How exciting would it be to be a part of the innovation that goes into creating technology that delights millions of people in an industry that’s here to stay! With our company’s history spanning over 40 years, you will have stability, career growth opportunities, and will work with the brightest minds in the industry. And we are committed to a diverse and inclusive culture that will help our organization thrive! We seek diversity in many areas such as background, culture, gender, ways of thinking, skills and more.
+
+
+If you want to learn more about us visit us at www.panasonic.aero
+And for a full listing of open job opportunities go to www.panasonic.aero/join-us/
+
+ 
+
+The Avionics Way:    
+
+The Avionics Way captures the essence of what makes our employees special, and by extension, our organization. It’s comprised of 5 core identifiers - Pioneers, Problem Solvers, Accountable, Collaborative, and Customer Focused - that together form a robust, working framework for our continued success.
+
+Beyond a philosophy, the Avionics Way is our guide to daily practices. It provides a clear, actionable model to help employees, at all levels, realize their ambitions through outsized contributions to their teams and the company. This model clearly defines expectations for performance at all levels of the organization, as well as establishes specific actions and modes of working that reinforce our philosophy on the path to achieving our goals.  
+
+Responsibilities
+
+We are looking for a motivated, driven, and collaborative Software Engineer with experience in software development to join a talented team that conducts research, design and development of software running on Linux or Android OS to power our latest products. 
+
+ 
+
+What you will be doing:   
+
+Collaborate as part of software DevOps team to ensure the smooth operation of the company’s development infrastructure.
+Participate in agile / scrum software development, including requirement review, scope planning, and retrospectives. Continuously improve quality and efficiency.
+Develop and maintain the company’s development tooling, both COTS and in-house.
+Conduct design and code reviews with other team members and maintain documentation.
+Ensure all deliverables comply with the latest industry standards & best practices for design, code quality, performance, and security.
+Support software releases including monitoring and defect resolution when needed.
+The hourly range of $30.77 - $51.92 is just one component of Panasonic’s total package. The final offer amount may vary based on factors including but not limited to individual’s knowledge, skills, experience, and location. In addition, this role may be eligible for discretionary bonuses and incentives.
+
+ 
+
+Base pay offered may vary depending on skills, experience, job-related knowledge and location.
+
+
+Qualifications
+
+Requirements we are looking for:
+
+Working knowledge of the Software Agile methodology and in practicing Scrum.
+0 - 3 years of proven experience in Software Engineering to include the following:
+Knowledge of latest and greatest object-oriented languages.
+Experience in Linux development.
+Experience in high level programming languages, such as PHP, Python, JavaScript, etc.
+Strong proven experience in unit test.
+Proven experience in development under Linux.
+Proven experience in socket programming, PUB/SUB and event driven architecture.
+Working knowledge of web technology including HTML, CSS, JS, React, PHP and database.
+Working knowledge of the hardware component basic functionality and understanding block diagram and schematic.
+Working knowledge of the basic networking protocols TCP/UDP/IP and familiarity with VLANs and basic switching and routing concepts.
+Demonstrated ability to manage priorities, context switches and make efficient use of shared resources.
+Demonstrated ability to work well in a fast-paced environment with user-centered, iterative design and development process.
+Demonstrated engineering communication expertise including clear and concise written and verbal skills.
+Ability to travel to domestic or international locations as required, up to 5% of the time.
+What we offer:    
+
+ 
+
+At Panasonic Avionics Corporation we realize the most important aspects in leading our industry are the bright minds behind everything we do. We are proud to offer our employees a highly competitive, comprehensive and flexible benefits program.
+
+Paid time off: Exempt Salaried employees receive unlimited PTO. This means that there is no fixed number, range, or limit to the amount of Personal and Vacation Days that may be taken for exempt employees. Non-exempt hourly employees accrue 14 vacation days per year + 7 sick days + 3 personal days. Accrual rate increases with tenure. All employees receive 11 company paid holidays per year plus a paid company-wide shut down in the U.S. between Christmas and New Year.    
+Insurance: Medical insurance offerings from Aetna and Kaiser (CA &HI). Options for Employee Only, Employee + Spouse/Domestic Partner, Employee + Children, or Family. Dental PPO and DMO options & Vision insurance through EyeMed or VSP.    
+401K with 50% match on up to 8% contribution, full vested from day 1.
+Other offerings include: Wellness Program, Counseling services, FSA & HSA, Life Insurance for employee, spouse and child, AD&D Insurance, Long-term and Short-term disability, Critical Illness Insurance, Accident Insurance, Legal Assistance, Pet Insurance, Identity Theft Protection, Dependent Care FLSA, Education Assistance, Commuter Program, Employee Purchase Program, Service Award Program.    
+Panasonic is proud to be an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, national origin, disability status, protected veteran status, and any other characteristic protected by law or company policy. All qualified individuals are required to perform the essential functions of the job with or without reasonable accommodation. Pre-employment drug testing is required for safety sensitive positions or as may otherwise be required by contract or law. Due to the high volume of responses, we will only be able to respond to candidates of interest. All candidates must have valid authorization to work in the U.S. Thank you for your interest in Panasonic Avionics Corporation.
+
+
+Salary Range
+
+$30.77 - $52.92 hourly REQ-147631
