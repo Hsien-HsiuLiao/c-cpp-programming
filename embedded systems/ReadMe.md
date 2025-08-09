@@ -2,6 +2,7 @@
 
 [Dave's Garage NVIDIA's $249 Secret Weapon for Edge AI - Jetson Orin Nano Super: Driveway Monitor](https://www.youtube.com/watch?v=QHBr8hekCzg)
 
+[NVIDIA Jetson Orin Nano Super COMPLETE Setup Guide & Tutorial](https://www.youtube.com/watch?v=-PjMC0gyH9s)
 
 ## assembly resources
 - https://www.youtube.com/watch?v=ViNnfoE56V8
