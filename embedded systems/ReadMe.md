@@ -1,3 +1,5 @@
+https://github.com/STMicroelectronics/STM32N6-GettingStarted-ObjectDetection
+
 https://github.com/solana-turbin3/drone-delivery-powered-by-depin/tree/main/hardware/esp32-drone
 
 ## NVIDIA
