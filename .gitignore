@@ -1,0 +1,54 @@
+# Build artifacts
+*.o
+*.elf
+*.map
+*.lst
+*.d
+*.su
+
+# Build directories (generated during compilation)
+build/
+Build/
+Debug/
+Release/
+*.build/
+
+# Generated model files (created by deployment scripts)
+Model/*/network_data.hex
+Model/*/network_data*.bin
+Model/*/network_ecblobs.h
+Model/*/network.c
+
+# User-specific configuration files
+Model/user_neuralart_*.json
+
+# IDE user-specific settings (keep .project and .cproject for project sharing)
+**/.settings/
+**/.metadata/
+**/.recommenders/
+**/.classpath
+
+# OS-specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+*.log
+
+# Backup files
+*.orig
+*.rej
+
+# Compiled binaries (from build process, not pre-built releases)
+# Note: Binary/ folder is kept as it contains pre-built releases referenced in README
+
